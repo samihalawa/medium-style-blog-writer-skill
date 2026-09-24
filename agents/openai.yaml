@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medium Style Blog Writer"
+  short_description: "Medium-natural articles and short tutorials with image plans"
+  default_prompt: "Use $medium-style-blog-writer. Write a Medium-natural article or small tutorial with a human voice, a sharp angle, statement H2s, a cover plus inline image plan (alt, caption, filename, prompt), and a publish-ready Markdown package. Prefer short how-to structure when the topic is a task. Research current steps before inventing commands. Do not fake lived experience or stats. Ban stock AI voice. Deliver title options, subtitle, article, image plan, tags, dek, and three promo lines."
